@@ -1,0 +1,27 @@
+{
+	"replace": false,
+	"values":[
+		"minecraft:carrot_on_a_stick",
+		"minecraft:barrier",
+
+		"minecraft:iron_sword",
+		"minecraft:iron_axe",
+		"minecraft:shield",
+		"minecraft:stone_sword",
+		"minecraft:stone_axe",
+		"minecraft:bow",
+		"minecraft:arrow",
+		"minecraft:golden_sword",
+		"minecraft:golden_axe",
+
+		"minecraft:chainmail_helmet",
+		"minecraft:chainmail_chestplate",
+		"minecraft:chainmail_leggings",
+		"minecraft:chainmail_boots",
+		"minecraft:leather_helmet",
+		"minecraft:leather_chestplate",
+		"minecraft:leather_leggings",
+		"minecraft:leather_boots"
+
+	]
+}
